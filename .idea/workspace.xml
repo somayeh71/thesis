@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b03f5ef-fdb7-4fd7-8a6e-845df1d07842" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/پایان نامه.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/.vs/CllularLearningAutomata/v14/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/.vs/CllularLearningAutomata/v15/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/.vs/CllularLearningAutomata/v15/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/.vs/CllularLearningAutomata/v15/Browse.VC.opendb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata.VC.opendb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/CllularLearningAutomata.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/CllularLearningAutomata.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/CllularLearningAutomata.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/CllularLearningAutomata.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/Untitled.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/dolphins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/mmd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/n.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/nums1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/stdafx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/stdafx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/targetver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/zachary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gridworld_ValueIteration.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How to calculate modularity (Q)_ NMI(normalised mutual information ) and ARI Usi.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RL and SLA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Receipt_0147e827-616c-4864-a46b-584bf1821329.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speeding up automata based multiagent.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/استاد مشاور/A new cellular learning automata-based algorithm for communitydetection .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/استاد مشاور/a_cellular_learning_automata_based.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/استاد مشاور/پروپوزال نهایی سمیه گلمحمدی22.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/دیتاست ها.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/فصل ها/فصل سوم.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/مثال انجمن/0686A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/مثال انجمن/fortunato2010.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/پروپوزال بدون قالب .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/پروپوزال نهایی سمیه گلمحمدی.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/پروپوزال نهایی سمیه گلمحمدی.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/پروپوزال.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/پروپوزال.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/کد دکتر رضویان/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/کد دکتر رضویان/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/کد دکتر رضویان/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/کد دکتر رضویان/.idea/کد دکتر رضویان.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/کد دکتر رضویان/ICLA_CD.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/کد دکتر رضویان/LReP_v2.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/کد دکتر رضویان/ML_Final_V2.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/کد دکتر رضویان/ml_karate_adjmat.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="793886191">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="h" value="1" />
+          <entry key="py" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C++" value="1" />
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4105" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="4105" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="پایان نامه" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/music/downloaded/jim/docs/check meee/IP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+              <folding>
+                <element signature="e#1#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="329" column="8" lean-forward="true" selection-start-line="329" selection-start-column="8" selection-end-line="329" selection-end-column="8" />
+              <folding>
+                <element signature="e#1#19#0" expanded="true" />
+                <element signature="e#3080#3285#0" />
+                <element signature="e#3331#3493#0" />
+                <element signature="e#3521#3836#0" />
+                <element signature="e#3931#4578#0" />
+                <element signature="e#5627#5677#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/untitled/IP.py" />
+        <option value="E:/music/downloaded/jim/docs/check meee/IP.py" />
+        <option value="$USER_HOME$/PycharmProjects/test graph/venv/lable graph.py" />
+        <option value="$PROJECT_DIR$/MyDemo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
+              <item name="پایان نامه" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (test graph) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (test graph) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyDemo.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MyDemo">
+    <configuration name="IP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="پایان نامه" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="E:/music/downloaded/jim/docs/check meee" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/music/downloaded/jim/docs/check meee/IP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="پایان نامه" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lable graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test graph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/test graph/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/test graph/venv/lable graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MyDemo" />
+      <item itemvalue="Python.IP" />
+      <item itemvalue="Python.lable graph" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MyDemo" />
+        <item itemvalue="Python.lable graph" />
+        <item itemvalue="Python.IP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b03f5ef-fdb7-4fd7-8a6e-845df1d07842" name="Default Changelist" comment="" />
+      <created>1553935153850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553935153850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.1532738" />
+      <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.1532738" />
+      <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.1532738" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33878887" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4304419" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49925596" weight="0.3289689" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985119" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyDemo.py</url>
+          <line>343</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" />
+        <watch expression="MVC[2]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>MVC[2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CllularLearningAutomataFinal/CllularLearningAutomata/stdafx.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/IP.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/test graph/venv/lable graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/music/downloaded/jim/docs/check meee/IP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="e#1#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="329" column="8" lean-forward="true" selection-start-line="329" selection-start-column="8" selection-end-line="329" selection-end-column="8" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+            <element signature="e#3080#3285#0" />
+            <element signature="e#3331#3493#0" />
+            <element signature="e#3521#3836#0" />
+            <element signature="e#3931#4578#0" />
+            <element signature="e#5627#5677#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
