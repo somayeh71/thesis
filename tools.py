@@ -13,7 +13,7 @@ def nodfinder(A,i,m,N):
             count = count + 1
 
 def getData(a,*args):
-    if not pd.isnull(args):
+    if str(args) != '()':
         b = args[0]
         result=pd.read_csv(b)
         result=result.values[:,1]

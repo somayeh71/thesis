@@ -16,10 +16,11 @@ from tools import *
 #--------------------------------------------------------------------------------------------------------------
 
 def CLA_NET(a,*args):
-    if not pd.isnull(args):
+    print(args)
+    if str(args) != '()':
         b = args[0]
         A,result=getData(a,b)
-    elif pd.isnull(args):
+    elif str(args) == '()':
         A = getData(a)
     print('Data loaded.')
 
