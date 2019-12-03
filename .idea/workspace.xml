@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b03f5ef-fdb7-4fd7-8a6e-845df1d07842" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CLA_NET.py" beforeDir="false" afterPath="$PROJECT_DIR$/CLA_NET.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiment1/experiment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment1/experiment1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools.py" afterDir="false" />
+    <list default="true" id="9b03f5ef-fdb7-4fd7-8a6e-845df1d07842" name="Default Changelist" comment="first demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLA_NET.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment1-sample/CLA_NET.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment1-sample/CLA_NET.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment1-sample/dolphins.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment1-sample/experiment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment1-sample/experiment1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment1-sample/mat to csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment1-sample/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment1-sample/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataaaa/dolphins.mtx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataaaa/dolphinsEdges.mtx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/آقای جویبان/data/football.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/آقای جویبان/data/polbooks.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/آقای جویبان/data1/dolphins.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/متن پایان نامه/Newman@dolphins.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/متن پایان نامه/فصل دوم/پایان نامه گلمحمدی.docx" beforeDir="false" afterPath="$PROJECT_DIR$/متن پایان نامه/فصل دوم/پایان نامه گلمحمدی.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,56 +28,62 @@
     <session id="793886191">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="40" />
+          <entry key="project.closed" value="65" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.131" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="4" />
           <entry key="project.open.time.16" value="6" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.18" value="6" />
           <entry key="project.open.time.19" value="5" />
-          <entry key="project.open.time.20" value="4" />
-          <entry key="project.open.time.21" value="5" />
-          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.20" value="6" />
+          <entry key="project.open.time.21" value="8" />
+          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.23" value="4" />
+          <entry key="project.open.time.24" value="4" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="47" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="1" />
           <entry key="h" value="1" />
-          <entry key="py" value="24" />
+          <entry key="py" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="24" />
+          <entry key="Python" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="23" />
           <entry key="dummy" value="8" />
-          <entry key="py" value="15183" />
+          <entry key="py" value="21132" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="15206" />
+          <entry key="Python" value="21155" />
         </counts>
       </usages-collector>
     </session>
@@ -76,34 +94,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CLA_NET.py">
+        <entry file="file://$PROJECT_DIR$/Experiment1-sample/experiment1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="26" />
-              <folding>
-                <element signature="e#1#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Experiment1/experiment1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="34">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -112,29 +106,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gn.py">
+        <entry file="file://$PROJECT_DIR$/Experiment1-sample/SoftCLA_NET.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-              <folding>
-                <element signature="e#1#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="174" column="10" selection-start-line="174" selection-start-column="10" selection-end-line="174" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scaleCLA_NET.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Experiment1-sample/tools.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2159">
-              <caret line="194" column="37" selection-start-line="194" selection-start-column="37" selection-end-line="194" selection-end-column="39" />
+            <state relative-caret-position="101">
+              <caret line="277" column="38" selection-start-line="277" selection-start-column="38" selection-end-line="277" selection-end-column="38" />
               <folding>
-                <element signature="e#292#467#0" />
-                <element signature="e#533#860#0" />
-                <element signature="e#1056#1289#0" />
-                <element signature="e#1339#1501#0" />
-                <element signature="e#1531#1727#0" />
-                <element signature="e#1772#2233#0" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,16 +151,28 @@
         <option value="$PROJECT_DIR$/MyDemo.py" />
         <option value="$PROJECT_DIR$/siz-membership/experiment1.py" />
         <option value="$PROJECT_DIR$/Experiment1/experiment1.py" />
+        <option value="$PROJECT_DIR$/Experiment2/experiment2.py" />
+        <option value="$PROJECT_DIR$/Experiment3-noise/experiment3.py" />
+        <option value="$PROJECT_DIR$/Experiment4-resolution/experiment4.py" />
         <option value="$PROJECT_DIR$/CLA_NET.py" />
         <option value="$PROJECT_DIR$/tools.py" />
+        <option value="$PROJECT_DIR$/Experiment2-scale/experiment2.py" />
+        <option value="$PROJECT_DIR$/Experiment1-sample/dataaa.py" />
+        <option value="$PROJECT_DIR$/Experiment1-sample/mat to csv.py" />
+        <option value="$PROJECT_DIR$/Experiment1-sample/CLA_NET1.py" />
+        <option value="$PROJECT_DIR$/Experiment1-sample/CLA_NET.py" />
+        <option value="$PROJECT_DIR$/Experiment1-sample/experiment1.py" />
+        <option value="$PROJECT_DIR$/Experiment1-sample/creat adjacancy matrix from edges list.py" />
+        <option value="$PROJECT_DIR$/Experiment1-sample/SoftCLA_NET.py" />
+        <option value="$PROJECT_DIR$/Experiment1-sample/tools.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-138" />
+    <option name="y" value="442" />
+    <option name="width" value="934" />
+    <option name="height" value="579" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -193,7 +191,22 @@
             <path>
               <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
               <item name="پایان نامه" type="462c0819:PsiDirectoryNode" />
-              <item name="Experiment1" type="462c0819:PsiDirectoryNode" />
+              <item name="Experiment1-sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
+              <item name="پایان نامه" type="462c0819:PsiDirectoryNode" />
+              <item name="Experiment2-scale" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
+              <item name="پایان نامه" type="462c0819:PsiDirectoryNode" />
+              <item name="Experiment3-noise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
+              <item name="پایان نامه" type="462c0819:PsiDirectoryNode" />
+              <item name="Experiment4-resolution" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="پایان نامه" type="b2602c69:ProjectViewProjectNode" />
@@ -221,8 +234,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.experiment1 (1)">
-    <configuration name="CLA_NET" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.experiment1 (2)">
+    <configuration name="CLA_NET (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="پایان نامه" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,11 +243,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment1-sample" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CLA_NET.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment1-sample/CLA_NET.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +277,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="experiment1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="creat adjacancy matrix from edges list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="پایان نامه" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment1-sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment1-sample/creat adjacancy matrix from edges list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="پایان نامه" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment1-sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment1-sample/dataaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment1 (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="پایان نامه" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,7 +340,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="experiment1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="experiment1 (2)" type="PythonConfigurationType" factoryName="Python">
       <module name="پایان نامه" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,11 +348,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/siz-membership" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment1-sample" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/siz-membership/experiment1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment1-sample/experiment1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +361,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="experiment2" type="PythonConfigurationType" factoryName="Python">
+      <module name="پایان نامه" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2-scale" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2-scale/experiment2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mat to csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="پایان نامه" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment1-sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment1-sample/mat to csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tools (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="پایان نامه" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment1-sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment1-sample/tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="پایان نامه" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,28 +436,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="scaleCLA_NET (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="پایان نامه" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scaleCLA_NET.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,19 +447,23 @@
     </configuration>
     <list>
       <item itemvalue="Python.MyDemo" />
-      <item itemvalue="Python.gn" />
-      <item itemvalue="Python.scaleCLA_NET (1)" />
-      <item itemvalue="Python.experiment1" />
-      <item itemvalue="Python.CLA_NET" />
       <item itemvalue="Python.experiment1 (1)" />
+      <item itemvalue="Python.experiment1 (2)" />
+      <item itemvalue="Python.CLA_NET (1)" />
+      <item itemvalue="Python.experiment2" />
+      <item itemvalue="Python.tools" />
+      <item itemvalue="Python.tools (1)" />
+      <item itemvalue="Python.dataaa" />
+      <item itemvalue="Python.mat to csv" />
+      <item itemvalue="Python.creat adjacancy matrix from edges list" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.experiment1 (1)" />
-        <item itemvalue="Python.experiment1" />
-        <item itemvalue="Python.CLA_NET" />
-        <item itemvalue="Python.gn" />
-        <item itemvalue="Python.scaleCLA_NET (1)" />
+        <item itemvalue="Python.creat adjacancy matrix from edges list" />
+        <item itemvalue="Python.tools (1)" />
+        <item itemvalue="Python.mat to csv" />
+        <item itemvalue="Python.dataaa" />
+        <item itemvalue="Python.tools" />
       </list>
     </recent_temporary>
   </component>
@@ -397,22 +498,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.1532738" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.1532738" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.1532738" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31914893" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42062193" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.39443535" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42389524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49925596" weight="0.3289689" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985119" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" weight="0.33060557" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -435,19 +535,21 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tools.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CLA_NET.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/Experiment2-scale/experiment2.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -502,13 +604,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/s0.-membership.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/s0.-membership.csv" />
     <entry file="file://$PROJECT_DIR$/استاد مشاور/scaleCLA_NET.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -526,62 +622,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/siz-membership/experiment1.py" />
     <entry file="file://$PROJECT_DIR$/gn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding>
-            <element signature="e#1#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/som/Mydemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment1/experiment1.py" />
+    <entry file="file://$PROJECT_DIR$/Experiment2/experiment2.py" />
+    <entry file="file://$PROJECT_DIR$/Experiment3-noise/experiment3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment4-resolution/experiment4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scaleCLA_NET.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="194" column="37" selection-start-line="194" selection-start-column="37" selection-end-line="194" selection-end-column="39" />
+        <state relative-caret-position="458">
+          <caret line="392" lean-forward="true" selection-start-line="392" selection-end-line="392" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLA_NET.py" />
+    <entry file="file://$PROJECT_DIR$/tools.py" />
+    <entry file="file://$PROJECT_DIR$/Experiment2-scale/CLA_NET.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/dataaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment2-scale/experiment2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
           <folding>
-            <element signature="e#292#467#0" />
-            <element signature="e#533#860#0" />
-            <element signature="e#1056#1289#0" />
-            <element signature="e#1339#1501#0" />
-            <element signature="e#1531#1727#0" />
-            <element signature="e#1772#2233#0" />
+            <marker date="1566814973342" expanded="true" signature="906:981" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/siz-membership/experiment1.py">
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/pandas/io/parsers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="127">
+          <caret line="1707" selection-start-line="1707" selection-end-line="1707" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment1/experiment1.py">
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/mat to csv.py" />
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/tools1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="289">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/CLA_NET1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/CLA_NET.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="24" selection-end-line="235" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/experiment1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CLA_NET.py">
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/creat adjacancy matrix from edges list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#1#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools.py">
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/SoftCLA_NET.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="357">
+          <caret line="174" column="10" selection-start-line="174" selection-start-column="10" selection-end-line="174" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment1-sample/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="277" column="38" selection-start-line="277" selection-start-column="38" selection-end-line="277" selection-end-column="38" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

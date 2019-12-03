@@ -37,9 +37,9 @@ NMI(membership_vector, a)
 plot(a, g)
 
 
+sssssssssssssssss = read.csv(file="data.csv",head=TRUE,sep="    /   ")
 
-
-
+write.csv(as.data.frame.matrix(sssssssssssssssss),'newwwdata.csv',row.names = T)
 
 ### fastgreedy.community
 fc <- fastgreedy.community(g)
